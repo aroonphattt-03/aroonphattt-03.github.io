@@ -10,7 +10,7 @@ Aroonphat
 ---
 
 ## 🧠 Skills
-- [Cybersecurity Fundamentals](/img/https://academy.apnic.net/en/certificates/cybersecurity-fundamentals?course_id=26836&cert-nonce=31bff8dae9)
+- [Cybersecurity Fundamentals](/https://academy.apnic.net/en/certificates/cybersecurity-fundamentals?course_id=26836&cert-nonce=31bff8dae9)
 
 ---
 
