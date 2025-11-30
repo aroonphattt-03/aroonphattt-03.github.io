@@ -17,3 +17,9 @@ Aroonphat
 ## 📫 Contact
 - Email: aroonphat.ttt@gmail.com  
 - Facebook: [Aroonphat Seehanan](https://www.facebook.com/?_rdc=2&_rdr#)
+
+## 🎬 Videos
+
+* [Cybersecurity Basics - Introduction](https://www.youtube.com/watch?v=example1)
+* [Network Security Tutorial](https://www.youtube.com/watch?v=example2)
+* [Ethical Hacking Guide](https://www.youtube.com/watch?v=example3)
