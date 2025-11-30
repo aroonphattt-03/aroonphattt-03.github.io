@@ -20,6 +20,6 @@ Aroonphat
 
 ## 🎬 Videos
 
-+ [Cybersecurity Basics - Introduction](https://www.youtube.com/watch?v=example1)
-+ [Network Security Tutorial](https://www.youtube.com/watch?v=example2)
-+ [Ethical Hacking Guide](https://www.youtube.com/watch?v=example3)
++ [Cybersecurity Basics - Introduction](https://www.youtube.com/watch?v=BzHOWGxVr44&list=RDBzHOWGxVr44&start_radio=1)
++ [Network Security Tutorial](https://www.youtube.com/watch?v=bNb0dUS72vM&list=RDBzHOWGxVr44&index=5)
++ [Ethical Hacking Guide](https://www.youtube.com/watch?v=R10mrTJpqPw&list=RDBzHOWGxVr44&index=6)
