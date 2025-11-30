@@ -1,3 +1,3 @@
 + [application](application)
 + [browser](browser)
-+ [Cache-Manager](Cache-Manaher)
++ [Cache-Manager](Cache-Manager)
