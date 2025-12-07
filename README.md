@@ -12,7 +12,7 @@ Institute of Vocational Education : Central Region 5
 ---
 
 ## 🧠 Skills
-- [Cybersecurity Fundamentals](/img/mee.pdf)
+- [Cybersecurity Fundamentals](/img/Seehanan-Cybersecurity-Fundamentals-Cybersecurity-Fundamentals-APNIC-Academy.pdf)
 
 
 ---
