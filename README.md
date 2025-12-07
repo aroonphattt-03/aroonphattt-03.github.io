@@ -5,14 +5,14 @@
 ---
 
 ## 🎓 Education
-**Information Technology (ปี 4)**  
-Institute of Vocational Education : Central Region 5
- ![cf](photo.jpg)
+> **Information Technology (ปี 4)**  
+> Institute of Vocational Education : Central Region 5
+> ![cf](photo.jpg)
 
 ---
 
 ## 🧠 Skills
-- [Cybersecurity Fundamentals](/img/Seehanan-Cybersecurity-Fundamentals-Cybersecurity-Fundamentals-APNIC-Academy.pdf)
+> - [Cybersecurity Fundamentals](/img/Seehanan-Cybersecurity-Fundamentals-Cybersecurity-Fundamentals-APNIC-Academy.pdf)
 
 
 ---
