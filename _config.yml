@@ -1,7 +1,8 @@
 title: Aroonphat Seehanan
 description: "Simple. Warm. Elegant."
-theme: jekyll-theme-cayman
+theme: jekyll-theme-time-machine
 url: "https://aroonphat-03.github.io"
 author: Ploy
+
 sass:
   style: compressed
