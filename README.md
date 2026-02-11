@@ -23,9 +23,6 @@
 - Facebook: [Aroonphat Seehanan](https://www.facebook.com/?_rdc=2&_rdr#)
 
 
-
-
-
 ## 🎊 สวัสดีปีใหม่ 2569 🎊
 >  - [NewYear](NewYear.png)
 > ✨ ขอให้ปีใหม่นี้  
