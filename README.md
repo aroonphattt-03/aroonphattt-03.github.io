@@ -22,6 +22,17 @@
 - Email: Aroonphat.ttt@gmail.com
 - Facebook: [Aroonphat Seehanan](https://www.facebook.com/?_rdc=2&_rdr#)
 
-สวัสดีปีใหม่ 2569
-> Happy New Year: Happy New Year
->![cf](New Year.png)
+
+## 🎊 สวัสดีปีใหม่ 2569 🎊
+
+![New Year](/img/NewYear.png)
+
+> ✨ ขอให้ปีใหม่นี้  
+> ประสบความสำเร็จ สุขภาพแข็งแรง  
+> เรียนเก่ง งานปัง เงินเข้าไม่ขาด ✨
+
+---
+
+🎁 From: **Aroonphat Seehanan**  
+📍 Information Technology  
+
