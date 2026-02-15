@@ -1,6 +1,5 @@
-**[⬅️ ย้อนกลับ](https://aroonphattt-03.github.io)
+# aroonphattt-03.github.io >
 
-# Gemini Certified Edcator 
+ ** Gemini Certifi Educator ** 
  
 ![cf](GeminiCertifiedEducator.png)
-
