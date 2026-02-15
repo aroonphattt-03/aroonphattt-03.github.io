@@ -4,10 +4,6 @@
 
  ![cf](NewYear.png)
 
-<p align="center">
-  <img src="NewYear.png" width="500">
-</p>
-
 <h2 style="color: green;">
 ✨ ขอให้ปีใหม่นี้เต็มไปด้วย
 </h2>
