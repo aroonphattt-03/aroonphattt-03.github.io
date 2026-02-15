@@ -2,5 +2,5 @@
 
  ** Gemini Certifi Facylty ** 
  
-![cf](GeminiCertifiFacylty.png)
+![cf](GeminiCertifiedFacylty.png)
 
