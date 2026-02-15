@@ -1,5 +1,9 @@
 **[⬅️ ย้อนกลับ](https://aroonphattt-03.github.io)
 
-## 🌐 ✨ Gemini Certified Educator ✨ 
-  
+<h2 style="color: green;">
+   
+  ## 🌐 ✨ Gemini Certified Educator ✨
+
+</h2>
+
 ![cf](GeminiCertifiedEducator.png)
