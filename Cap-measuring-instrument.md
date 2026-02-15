@@ -1,6 +1,6 @@
 **[<< ย้อนกลับ](https://aroonphattt-03.github.io)
 
-# เครื่องทดสอบแรง/ความแข็งแรงฝา (CanNeed-ELT-200)> ![cf](Insect-trap.jpg)
+# เครื่องทดสอบแรง/ความแข็งแรงฝา (CanNeed-ELT-200)> ![cf](Cap-measuring-instrument..jpg)
 
 > PDCA คืออะไร?
 
