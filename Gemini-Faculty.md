@@ -1,6 +1,6 @@
 # aroonphattt-03.github.io >
 
- ** Gemini Certifi Facylty ** 
+ ** Gemini Certifi Faculty ** 
  
-![cf](GeminiCertifiedFacylty.png)
+![cf](GeminiCertifiedFaculty.png)
 
