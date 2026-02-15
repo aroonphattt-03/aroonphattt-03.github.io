@@ -4,10 +4,6 @@
 
  ![cf](NewYear.png)
 
-<h1 style="color: red; text-align:center;">
-🎉 Happy New Year 2026 🎆
-</h1>
-
 <p align="center">
   <img src="NewYear.png" width="500">
 </p>
