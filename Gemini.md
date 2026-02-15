@@ -3,5 +3,3 @@
  ** Gemini Certifi Educator ** 
  
 ![cf](GeminiCertifiEducator.png)
-![cf](GeminiCertifiFaculty.png)
-![cf](GeminiCertifiStudent.png)
