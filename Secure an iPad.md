@@ -41,7 +41,7 @@
 เลือก Custom Alphanumeric Code
 ใส่รหัส : C@sp3r ยืนยันรหัสอีกครั้ง
 
-![cf](Secure-an-iPad.jpg)
+![cf](17.jpg)
 
 ----
 
@@ -49,7 +49,7 @@
 ยังอยู่ในหน้า Passcode settings หาเมนู Require Passcode
 เลือก After 5 Minutes
 
-![cf](Secure-an-iPad.jpg)
+![cf](18jpg)
 
 ----
 
@@ -57,7 +57,7 @@
 เลื่อนลงด้านล่างในหน้า Passcode เปิดสวิตช์ Erase Data
 (ลบข้อมูลอัตโนมัติเมื่อใส่รหัสผิด 10 ครั้ง)
 
-![cf](Secure-an-iPad.jpg)
+![cf](19.jpg)
 
 ----
 
@@ -65,7 +65,7 @@
 ไปที่ Settings เลือก Wi-Fi ปิด Auto-Join Hotspot (ถ้ามี)
 ปิดการเชื่อมต่ออัตโนมัติ → ให้เลือกเครือข่ายและใส่รหัสเองเท่านั้น
 
-![cf](Secure-an-iPad.jpg)
+![cf](25.jpg)
 
 ----
 
@@ -73,7 +73,7 @@
 ไปที่ Settings เลือก Bluetooth
 ปิดสวิตช์ให้เป็น Off
 
-![cf](Secure-an-iPad.jpg)
+![cf](27.jpg)
 
 ----
 
@@ -86,28 +86,22 @@
 ✔ เพิ่ม Wi-Fi เอง
 ✔ Bluetooth = ปิด
 
+----
 
-ChatGPT พูดว่า:
-จากภาพตอนนี้คุณอยู่ที่หน้า
-
-Settings > General > About
-
+👉 Settings > General > About
 และเห็นว่า
 📱 Software Version = 15.2
-
 👉 ถ้า Lab ให้ “อัปเดตเวอร์ชันล่าสุด”
-ให้กดตามนี้:
-
-กด < General (มุมซ้ายบน)
-
+ให้กดตามนี้ : กด < General (มุมซ้ายบน)
 แล้วกด Software Update
-
 กด Download and Install
-
 รอให้อัปเดตเสร็จ
+
+![cf](12.jpg)
+
+----
 
 🎯 สรุปสั้น ๆ
 ตอนนี้หน้านี้ยังไม่ต้องกดอะไรเพิ่ม
 ให้กด General (ย้อนกลับ) → แล้วเข้า Software Update
 
-ถ้าอัปเดตเสร็จแล้วส่งรูปหน้าถัดไปมา เดี๋ยวช่วยบอกขั้นตอนต่อให้ครบจนผ่าน Lab 💯
