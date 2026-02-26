@@ -31,7 +31,7 @@
 
 ## 🌐 Gemini
 > - [Gemini-Eduator](https://aroonphattt-03.github.io/Gemini-Eduator)
-> - [Gemini-Faculty](https://aroonphattt-03.github.io/Gemini-Faculty)
+> - [Gemini-Faculty](https://edu.google.accredible.com/45d5f28c-d79c-45fe-9a61-c1938ac30093#acc.JRgSO05i)
 > - [Gemini-Student](https://aroonphattt-03.github.io/Gemini-Student)
 
 ## 🔐📧 Lab 📧🔐
