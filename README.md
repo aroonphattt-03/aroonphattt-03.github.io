@@ -32,8 +32,8 @@
 > - [Gemini-Student](https://aroonphattt-03.github.io/Gemini-Student.html)
 
 ## 👨‍💻✨ Control
-> - [Insert-trap](https://aroonphattt-03.github.io/Insect-trap.html)
-> - [Cap-measuring-inrument](https://aroonphattt-03.github.io/Cap-measuring-instrument.html)
+> - [Insert-trap](https://aroonphattt-03.github.io/Insect-trap)
+> - [Cap-measuring-inrument](https://aroonphattt-03.github.io/Cap-measuring-instrument)
 
 ## ⚠️ PDPA 🔥
 > - [flammable-material](https://aroonphattt-03.github.io/PDPA.html)
