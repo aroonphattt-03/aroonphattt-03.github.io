@@ -27,9 +27,9 @@
 > - [HappyNewyear](https://aroonphattt-03.github.io/HappyNewyear)
 
 ## 🌐 Gemini
-> - [Gemini-Eduator](https://aroonphattt-03.github.io/Gemini-Eduator.html)
-> - [Gemini-Faculty](https://aroonphattt-03.github.io/Gemini-Faculty.html)
-> - [Gemini-Student](https://aroonphattt-03.github.io/Gemini-Student.html)
+> - [Gemini-Eduator](https://aroonphattt-03.github.io/Gemini-Eduator)
+> - [Gemini-Faculty](https://aroonphattt-03.github.io/Gemini-Faculty)
+> - [Gemini-Student](https://aroonphattt-03.github.io/Gemini-Student)
 
 ## 👨‍💻✨ Control
 > - [Insert-trap](https://aroonphattt-03.github.io/Insect-trap)
