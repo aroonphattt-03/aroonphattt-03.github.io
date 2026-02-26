@@ -24,7 +24,7 @@
 
 
 ## 🎉 Happy New Year 2026 🎆
-> - [HappyNewyear](https://aroonphattt-03.github.io/HappyNewyear.html)
+> - [HappyNewyear](https://aroonphattt-03.github.io/HappyNewyear)
 
 ## 🌐 Gemini
 > - [Gemini-Eduator](https://aroonphattt-03.github.io/Gemini-Eduator.html)
