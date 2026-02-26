@@ -2,7 +2,7 @@
 
 <h2 style="color: green;">
  
-  ** 🌐 ✨ Gemini Certified Student ✨ 
+   🌐 ✨ Gemini Certified Student ✨ 
 
 </h2>
 
