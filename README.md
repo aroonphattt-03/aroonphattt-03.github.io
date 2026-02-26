@@ -5,6 +5,11 @@
   
 ---
 
+## 🧠 Skills
+> - [Cybersecurity Fundamentals](/img/Seehanan-Cybersecurity-Fundamentals-Cybersecurity-Fundamentals-APNIC-Academy.pdf)
+
+---
+
 ## 🎓 Education
 > **Information Technology (ปี 4)**  
 > Institute of Vocational Education : Central Region 5
@@ -12,11 +17,7 @@
 
 ---
 
-## 🧠 Skills
-> - [Cybersecurity Fundamentals](/img/Seehanan-Cybersecurity-Fundamentals-Cybersecurity-Fundamentals-APNIC-Academy.pdf)
 
-
----
 
 ## 📫 Contact
 > - Email: Aroonphat.ttt@gmail.com
