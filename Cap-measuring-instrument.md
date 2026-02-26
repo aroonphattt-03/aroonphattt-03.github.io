@@ -5,11 +5,12 @@
 
 ![cf](Cap-measuring-instrument.jpg)
 
-<li>
+
 <ul style="color: black; font-size:16px;">
   
   เครื่องทดสอบแรง/ความแข็งแรงฝา (CanNeed-ELT-200)🔧
   
+<li> 
 ✅ 1️⃣ Control Function (หน้าที่ของ Control)
 🎯 Detective Control (หลัก)
 </li>
