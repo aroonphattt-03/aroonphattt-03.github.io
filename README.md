@@ -39,7 +39,7 @@
 > - [flammable-material](https://aroonphattt-03.github.io/PDPA.html)
 
 ## 🔐🔍 Zero-Trust 🌐🛡️
-> - [Zero-Trust](https://aroonphattt-03.github.io/Zero-Trust.html)
+> - [Zero-Trust](https://aroonphattt-03.github.io/Zero-Trust)
 
 
 
