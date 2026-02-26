@@ -49,7 +49,7 @@
 ยังอยู่ในหน้า Passcode settings หาเมนู Require Passcode
 เลือก After 5 Minutes
 
-![cf](18jpg)
+![cf](18.jpg)
 
 ----
 
