@@ -7,6 +7,6 @@
 
 </h2>
 
-![cf](GeminiCertifiedFaculty.png)
+![cf]([GeminiCertifiedFaculty.png](https://edu.google.accredible.com/45d5f28c-d79c-45fe-9a61-c1938ac30093#acc.JRgSO05i))
 
 
