@@ -3,7 +3,7 @@
 
 <h2 style="color: green;">
    
-  ## 🌐 ✨ Gemini Certifi Faculty ✨ 
+   🌐 ✨ Gemini Certifi Faculty ✨ 
 
 </h2>
 
