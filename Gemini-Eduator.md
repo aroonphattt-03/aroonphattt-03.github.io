@@ -2,7 +2,7 @@
 
 <h2 style="color: green;">
    
-  🌐 ✨ Gemini Certified Educator ✨
+   🌐✨ Gemini Certified Educator ✨
 
 </h2>
 
