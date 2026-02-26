@@ -45,7 +45,7 @@
 > - [Closed-Circuit](https://aroonphattt-03.github.io/PDPA)
 
 ## 🔐🔍 Zero-Trust 🌐🛡️
-> - [Zero-Trust](https://aroonphattt-03.github.io/Zero-Trust)
+> - [Device-Security](https://aroonphattt-03.github.io/Zero-Trust)
 
 
 
