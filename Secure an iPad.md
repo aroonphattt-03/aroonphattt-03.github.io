@@ -126,11 +126,13 @@
 
 ----
 
+![cf](30.jpg)
+
+----
+
 🟢 iPad Updated
 🟢 Screen Security Enabled
 🟢 Data Protection Active
 🟢 Network Secured
 
-![cf](30.jpg)
-
-----
+---
