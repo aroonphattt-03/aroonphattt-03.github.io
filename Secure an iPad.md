@@ -105,3 +105,32 @@
 ตอนนี้หน้านี้ยังไม่ต้องกดอะไรเพิ่ม
 ให้กด General (ย้อนกลับ) → แล้วเข้า Software Update
 
+![cf](6.jpg)
+
+----
+
+✅ ผลลัพธ์ Lab : Secure an iPad (10.7.4) หลังจากทำครบทุกขั้นตอนแล้ว เครื่องต้องมีสถานะดังนี้ 👇
+🔄 ระบบปฏิบัติการ 📱 iOS / iPadOS = เวอร์ชันล่าสุด
+อัปเดตเรียบร้อย ไม่มีแจ้งเตือนค้าง
+🔒 ความปลอดภัยหน้าจอ 
+⏱ Auto-Lock = 5 Minutes
+🔑 Passcode = C@sp3r
+⌛ Require Passcode = After 5 Minutes
+🚨 Erase Data = ON (ลบข้อมูลเมื่อใส่รหัสผิด 10 ครั้ง)
+🌐 เครือข่าย
+📶 เพิ่ม Wi-Fi เองเท่านั้น (ไม่เชื่อมต่ออัตโนมัติ)
+🔵 Bluetooth = OFF
+🎯 สถานะสุดท้ายที่ควรได้
+
+![cf](29.jpg)
+
+----
+
+🟢 iPad Updated
+🟢 Screen Security Enabled
+🟢 Data Protection Active
+🟢 Network Secured
+
+![cf](30.jpg)
+
+----
