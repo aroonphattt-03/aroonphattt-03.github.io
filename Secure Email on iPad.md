@@ -2,4 +2,4 @@
 
 # 10.9.7 Secure Email on iPad 
 
-![cf](Insect-trap.jpg)
+![cf](Secure-Email-on-iPad.jpg)
