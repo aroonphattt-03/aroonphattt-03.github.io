@@ -4,7 +4,7 @@
 
 ![cf](Cap-measuring-instrument.jpg)
 
-<ul style="color: white; font-size:16px;">
+<ul style="color: black; font-size:16px;">
   
   เครื่องทดสอบแรง/ความแข็งแรงฝา (CanNeed-ELT-200)🔧
 
