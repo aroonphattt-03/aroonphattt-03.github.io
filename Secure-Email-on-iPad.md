@@ -48,7 +48,7 @@
 ❌ Turn off JavaScript
 เลื่อนลง กด Advanced ปิด (OFF) JavaScript
 
-![cf](S15.jpg)
+![cf](S14.jpg)
 
 ---
 
