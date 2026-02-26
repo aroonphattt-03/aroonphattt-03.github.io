@@ -34,6 +34,8 @@
 > - [Gemini-Faculty](https://aroonphattt-03.github.io/Gemini-Faculty)
 > - [Gemini-Student](https://aroonphattt-03.github.io/Gemini-Student)
 
+## 🔐📧 Lab 📧🔐
+
 ## 👨‍💻✨ Control
 > - [Insert-trap](https://aroonphattt-03.github.io/Insect-trap)
 > - [Cap-measuring-inrument](https://aroonphattt-03.github.io/Cap-measuring-instrument)
