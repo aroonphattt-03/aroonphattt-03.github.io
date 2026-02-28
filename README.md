@@ -35,7 +35,7 @@
 > - [Gemini-Student](https://aroonphattt-03.github.io/Gemini-Student)
 
 ## 🔐📧 Lab 📧🔐
-> -[10.9.7 Secure Email on iPad](https://aroonphattt-03.github.io/Secure-Email-on-iPad)
+> - [10.9.7 Secure Email on iPad](https://aroonphattt-03.github.io/Secure-Email-on-iPad)
 
 ## 👨‍💻✨ Control
 > - [Insert-trap](https://aroonphattt-03.github.io/Insect-trap)
